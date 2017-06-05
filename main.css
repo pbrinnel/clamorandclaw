@@ -1,3 +1,6 @@
+html { width: 100%;} /* force html to be viewport width */
+body {width: 150%; }
+
     a:link {color:#085ca2; text-decoration:none;}
     a:visited {color:#085ca2; text-decoration:none;}
     a:hover {text-decoration:underline;}
@@ -11,15 +14,19 @@ pre {
     }
 
 h1 {
+    width: 70%;
+    font-size: 5vw;
     color: #1b063f;
     font-size: 48px;
     font-style: bold;
 }
 
 body {
+    width: 50%;
     color: #4b8134;
     font-family: 'Work Sans';
     font-size: 16px;
+    font-size: 3vw;
     text-align: center;
     background-color: #d9d9d9;
 }
