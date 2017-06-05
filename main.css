@@ -10,12 +10,20 @@ pre {
     word-wrap: break-word; /* IE 5.5+ */
     }
 
+h1 {
+    color: white;
+    font-family: 'Work Sans';
+    font-size: 48px;
+    text-align: center;
+    background-color: yellow;
+}
+
 body {
     color: white;
-    font-family: Courier, "Courier New", Serif;
+    font-family: 'Work Sans';
     font-size: 16px;
     text-align: center;
-    background-color: black;
+    background-color: yellow;
 }
 
 table.center {
