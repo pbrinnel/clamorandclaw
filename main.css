@@ -18,6 +18,11 @@ body {
     background-color: black;
 }
 
+table.center {
+ margin-left: auto;
+ margin-right: auto;
+}
+
 footer {
     color: white;
     font-family: Courier, "Courier New", monospace;
