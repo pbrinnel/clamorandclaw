@@ -11,19 +11,17 @@ pre {
     }
 
 h1 {
-    color: white;
-    font-family: 'Work Sans';
+    color: #1b063f;
     font-size: 48px;
-    text-align: center;
-    background-color: yellow;
+    font-style: bold;
 }
 
 body {
-    color: white;
+    color: #86b871;
     font-family: 'Work Sans';
     font-size: 16px;
     text-align: center;
-    background-color: yellow;
+    background-color: #d9d9d9;
 }
 
 table.center {
