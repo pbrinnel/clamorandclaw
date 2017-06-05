@@ -1,5 +1,5 @@
-    a:link {color:#bcdcff; text-decoration:none;}
-    a:visited {color:#d0e6ff; text-decoration:none;}
+    a:link {color:#085ca2; text-decoration:none;}
+    a:visited {color:#085ca2; text-decoration:none;}
     a:hover {text-decoration:underline;}
 
 pre {
@@ -17,7 +17,7 @@ h1 {
 }
 
 body {
-    color: #86b871;
+    color: #4b8134;
     font-family: 'Work Sans';
     font-size: 16px;
     text-align: center;
@@ -30,8 +30,8 @@ table.center {
 }
 
 footer {
-    color: white;
-    font-family: Courier, "Courier New", monospace;
+    color: #0f061f;
+    font-family: 'Work Sans';
     font-size: 10px;
     text-align: center;
 }
