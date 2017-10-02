@@ -2,6 +2,15 @@
     a:visited {color:#085ca2; text-decoration:none;}
     a:hover {text-decoration:underline;}
 
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #d9d9d9;
+  box-sizing: border-box;
+  text-align: center;
+  height: 100%;
+}
+
 pre {
     white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
     white-space: -pre-wrap; /* Opera */
@@ -33,7 +42,6 @@ body {
     line-height: 1;
     margin: 1;
     color: #4b8134;
-    background-color: #d9d9d9;
     font-family: 'Work Sans';
     font-style: bold;
 }    
