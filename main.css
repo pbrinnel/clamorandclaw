@@ -10,7 +10,7 @@ pre {
     word-wrap: break-word; /* IE 5.5+ */
     }
 
-head {
+h1 {
     font-size: 15vw;
     display: flex;
     align-items: center;
