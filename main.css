@@ -14,7 +14,7 @@ pre {
 
 h1 {
     font-size: 6.5vw;
-    display: flex;
+   /* display: flex; */
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -27,7 +27,7 @@ h1 {
 
 body {
     font-size: 1vw;
-    display: flex;
+   /* display: flex; */
     align-items: center;
     justify-content: center;
     text-align: center;
