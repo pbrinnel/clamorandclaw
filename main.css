@@ -27,8 +27,7 @@ h1 {
 iframe {
     border: none;
     width: 300px;
-    height: 50vw;
-  /*  height: 604px; */
+    height: 604px;
     margin: 0;
     padding: 0;
 }
