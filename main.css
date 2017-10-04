@@ -25,9 +25,11 @@ h1 {
 }
 
 iframe {
-    style="border: 0;
+    border: none;
     width: 300px; 
-    height: 604px;   
+    height: 604px;  
+    margin: 0;
+    padding: 0;
 }
 
 body {
