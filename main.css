@@ -13,7 +13,7 @@ pre {
     }
 
 h1 {
-    font-size: calc(6vw + 10px);
+    font-size: calc(5vw + 14px);
    /* font-size: 6.5vw; */
     align-items: center;
     justify-content: center;
@@ -34,7 +34,7 @@ iframe {
 }
 
 body {
-    font-size: calc(2.75vw + 9px);
+    font-size: calc(2vw + 11px);
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -52,7 +52,7 @@ table.center {
 }
 
 footer {
-    font-size: calc(1.5vw + 5px);
+    font-size: calc(1vw + 6.5px);
     align-items: center;
     justify-content: center;
     text-align: center;
