@@ -31,6 +31,7 @@ iframe {
     height: 604px;
     margin: 0;
     padding: 0;
+    background-color: #704796;
 }
 
 body {
@@ -41,7 +42,7 @@ body {
     line-height: 1;
     margin: 1;
     color: #38644D;
-    background-color: #704796;
+    background-color: #ffffff;
     font-family: 'Work Sans';
     font-style: bold;
 }    
