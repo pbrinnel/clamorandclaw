@@ -21,7 +21,7 @@ h1 {
     line-height: 1;
     padding: 0;
     margin: 0;
-    color: #4812f5;
+    color: #30AE64;
     font-style: bold;
 }
 
@@ -40,8 +40,8 @@ body {
     text-align: center;
     line-height: 1;
     margin: 1;
-    color: #4b8134;
-    background-color: #F4F185;
+    color: #38644D;
+    background-color: #704796;
     font-family: 'Work Sans';
     font-style: bold;
 }    
@@ -58,6 +58,6 @@ footer {
     text-align: center;
     line-height: 1;
     margin: 1;
-    color: #1b063f;
+    color: #30AE64;
     font-family: 'Work Sans';
 }
