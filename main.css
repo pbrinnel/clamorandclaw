@@ -2,6 +2,11 @@
     a:visited {color:#085ca2; text-decoration:none;}
     a:hover {text-decoration:underline;}
 
+html {
+    margin: 0;
+    padding: 0;
+}
+
 pre {
     white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
     white-space: -pre-wrap; /* Opera */
