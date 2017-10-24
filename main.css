@@ -26,6 +26,20 @@ h1 {
     font-style: bold;
 }
 
+h2 {
+    font-size: calc(2vw + 11px);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1;
+    padding: 0;
+    margin: 1;
+    color: #30AE64;
+    background-color: #704796;
+    font-style: italic;
+    font-family: 'Work Sans';
+}
+
 iframe {
     border: none;
     width: 300px;
