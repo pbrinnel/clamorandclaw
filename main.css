@@ -52,12 +52,11 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    line-height: 1;
     margin: 0;
     padding: 0;
     color: #000000;
     background-color: #ffffff;
-    font-family: 'Cooper Black', 'Arial Black', Sans-Serif;
+    font-family: 'Roboto Mono', monospace;
     font-style: normal;
     white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
     white-space: -pre-wrap; /* Opera */
