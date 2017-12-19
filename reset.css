@@ -113,6 +113,11 @@ body {
     background-color: #000000;
     font-family: 'Nobile', sans-serif;
     font-style: normal;
+	
+    white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
+    white-space: -pre-wrap; /* Opera */
+    white-space: -o-pre-wrap; /* Opera */
+
 }
 
 
