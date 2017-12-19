@@ -51,18 +51,11 @@ table {
     a:visited {color:#085ca2; text-decoration:none;}
     a:hover {text-decoration:underline;}
 
-body {
-    font-size: calc(2vw + 11px);
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-    color: #000000;
-    background-color: #000000;
-    font-family: 'Nobile', sans-serif;
-    font-style: normal;
-}    
+
+
+
+
+ 
 
 html {
     margin: 0;
@@ -109,8 +102,18 @@ iframe {
 
 
 
-
-
+body {
+    font-size: calc(2vw + 11px);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    background-color: #000000;
+    font-family: 'Nobile', sans-serif;
+    font-style: normal;
+}
 
 
 
