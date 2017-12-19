@@ -52,7 +52,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    color: #000000;
+    color: ##000000;
     background-color: #ffffff;
     font-family: 'Nobile', sans-serif;
     font-style: normal;
@@ -76,6 +76,6 @@ footer {
     line-height: 1;
     margin: 0;
     padding: 0;
-    color: #704796;
+    color: #6c5119;
     font-family: 'Cooper Black', 'Corben', cursive;
 }
