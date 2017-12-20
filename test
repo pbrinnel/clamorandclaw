@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Clamor &amp; Claw</title>
+  <meta name="description" content="The Official Website for Clamor &amp; Claw">
+  <meta name="keywords" content="Clamor, Claw, Chicago">
+  <meta name="author" content="Paul Brinnel">
+   <meta name="viewport" content="width=device-width">   
+   <link rel='stylesheet' media='screen' href="main.css">
+   
+   <!--favicons-->
+<link rel="apple-touch-icon" sizes="180x180" href="/clamorandclaw/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/clamorandclaw/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/clamorandclaw/favicons/favicon-16x16.png">
+<link rel="manifest" href="/clamorandclaw/favicons/manifest.json">
+<link rel="mask-icon" href="/clamorandclaw/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="theme-color" content="#ffffff">
+
+<!--font shit-->
+<link href="https://fonts.googleapis.com/css?family=Corben:700|Nobile" rel="stylesheet">
+</head>
+   
+<body><h1>CLAMOR &amp; CLAW</h1><!--
+--><!--iframe src="https://bandcamp.com/EmbeddedPlayer/album=2696963346/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="http://clamorandclaw.bandcamp.com/album/clamor-claw">Clamor &amp; Claw by Clamor &amp; Claw</a></iframe-->
+  <BR>
+  <BR>
+   <h2>UPCOMING GIGS</h2><!--
+--><table class="center"><tr><td align="left"><a href="https://www.facebook.com/events/136274637049696">Sat 01-27-18<BR>EP Release + Short Film Premier<BR>@ The Burlington<BR>w/ Scott William and the Family Band<BR>&amp; Peggy Tenderass</a>
+</td>
+</table>
+   <BR>
+<h2>SOCIAL MEDIA</h2><!--
+--><table class="center"><tr><td align="left"><a href="https://www.facebook.com/Clamorandclaw/" target="_blank">Clamor &amp; Claw - Facebook</a></td></tr>
+</table>
+         <BR>
+<h2>BOOKING</h2><!--
+--><table class="center"><tr><td align="left"><a href="mailto:clamorandclaw@gmail.com" target="_blank">clamorandclaw@gmail.com</a>
+</table>
+               <BR>
+<footer>©2017 CLAMOR &amp; CLAW<!--
+--></footer><!--
+--></body><!--
+--></html>
