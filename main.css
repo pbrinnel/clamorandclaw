@@ -69,7 +69,7 @@ table.center {
 }
 
 img {
-   width: calc(10vw+10px);
+   width: calc(10vmin);
     /* width: 15vmin; */
 }
 
