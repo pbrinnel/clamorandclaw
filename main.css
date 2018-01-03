@@ -69,7 +69,8 @@ table.center {
 }
 
 img {
-    width: 15vmin;
+   width: calc(10vw+10px);
+    /* width: 15vmin; */
 }
 
 footer {
