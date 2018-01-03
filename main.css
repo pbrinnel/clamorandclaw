@@ -68,8 +68,8 @@ table.center {
     margin-right: auto;
 }
 
-img.center {
-    width: calc(3vw);
+img {
+    width: 15vmin;
 }
 
 footer {
