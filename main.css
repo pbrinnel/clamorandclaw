@@ -39,8 +39,8 @@ h2 {
 
 h4 {
     font-size: calc(1vw + 6px);
-    align-items: center;
-    justify-content: left;
+    align-items: left;
+    justify-content: center;
     text-align: center;
     line-height: 1;
     padding: 0;
