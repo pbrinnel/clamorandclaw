@@ -68,6 +68,10 @@ table.center {
     margin-right: auto;
 }
 
+img.center {
+    width: calc(3vw);
+}
+
 footer {
     font-size: calc(1vw + 6.5px);
     align-items: center;
