@@ -101,6 +101,7 @@ img {
 .container {
     align-items: center;
     height: 750px;
+    width: 800px;
 }
 
 .video {
