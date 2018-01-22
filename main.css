@@ -104,7 +104,7 @@ img {
 
 .video {
     width: 100vw;
-    height: calc(width * .5625);
+    height: calc(100vw * .5625);
 }
 
 footer {
