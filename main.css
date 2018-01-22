@@ -104,6 +104,7 @@ img {
 }
 
 .video {
+    display:block;
     align-items: center;
     top: 0;
     left: 0;
