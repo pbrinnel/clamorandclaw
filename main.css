@@ -114,6 +114,7 @@ img {
     min-width: 300px;
     height: calc(40vw + 305px);
     min-height: 604px;
+    max-height: 1004px;
 }
 
 footer {
