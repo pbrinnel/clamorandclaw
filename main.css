@@ -109,6 +109,13 @@ img {
     min-height: calc(300px*.5625);
 }
 
+.bandcamp-embed {
+    width: 20vw;
+    height: calc(20vw * .5625);
+    min-width: 300px;
+    min-height: calc(300px*.5625);
+}
+
 footer {
     font-size: calc(1vw + 6.5px);
     align-items: center;
