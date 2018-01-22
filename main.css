@@ -100,13 +100,13 @@ img {
 
 .container {
     position: relative;
-    align-items: center;
     width: 80%;
     height: 80%;
 }
 
 .video {
     position: relative;
+    align-items: center;
     top: 0;
     left: 0;
     width: 100%;
