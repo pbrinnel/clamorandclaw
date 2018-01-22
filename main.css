@@ -76,7 +76,7 @@ body {
     font-size: calc(2vw + 11px);
     align-items: center;
     justify-content: center;
-    text-align: center;
+    text-align: -webkit-center;
     margin: 0;
     padding: 0;
     color: #000000;
