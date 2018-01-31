@@ -37,6 +37,19 @@ h2 {
     font-family: 'Cooper Black', 'Corben', cursive;
 }
 
+h3 {
+    font-size: calc(0.4vw + 11px);
+    align-items: left;
+    justify-content: left;
+    text-align: center;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+    color: #ad8624;
+    font-style: normal;
+    font-family: 'Nobile', sans-serif;
+}
+
 h4 {
     font-size: calc(0.4vw + 11px);
     align-items: left;
@@ -116,6 +129,8 @@ img {
     min-height: 604px;
     max-height: 1004px;
 }
+
+
 
 footer {
     font-size: calc(1vw + 6.5px);
